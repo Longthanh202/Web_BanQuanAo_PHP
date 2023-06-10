@@ -1,0 +1,28 @@
+.main {
+    width: 1200px;
+    height: auto;
+    background: white;
+    position: absolute;
+    top: 85px;
+    left: 230px;
+    border-left: 2px solid black;
+}
+.btn-success a {
+    text-decoration: none;
+    color: white;
+}
+.btn-success a:hover {
+    color: white;
+}
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+table thead tr th {
+    text-align: center;
+    vertical-align: middle;
+}
+#ten {
+    font-weight: bold;
+    font-size: 15px;
+}

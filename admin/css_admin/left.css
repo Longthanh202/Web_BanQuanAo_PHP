@@ -1,0 +1,28 @@
+.left ul {
+    background: white;
+    padding: 0;
+    list-style-type: none;
+    text-align: left;
+    border-radius: 5px;
+}
+.left li {
+    line-height: 40px;
+    padding: 0 1em;
+    border-radius: 5px;
+}
+.left li a {
+    text-decoration: none;
+    color: #0c0a0a;
+    font-weight: bold;
+    display: block;
+}
+.left li:hover {
+    background: violet;
+}
+.left {
+    background: white;
+    border-radius: 5px;
+}
+#logout {
+    font-size: 25px;
+}
