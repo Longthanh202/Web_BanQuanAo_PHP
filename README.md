@@ -20,7 +20,7 @@
 
 ## Một số hình ảnh minh họa.
   ### Client
- ** 1. Home page.**
+  **1. Home page.**
 
      ![image](https://github.com/user-attachments/assets/1d1608ea-97f3-4dee-9b17-6133c381f419)
 
@@ -28,11 +28,11 @@
 
      ![image](https://github.com/user-attachments/assets/a253a863-a06d-4183-9dff-99c82cef1439)
 
- ** 3. Carts.**
+ **3. Carts.**
 
      ![image](https://github.com/user-attachments/assets/64bc99b5-e6c5-4a32-bfcd-cf74f67f30cb)
 
- ** 4. Checkout.**
+ **4. Checkout.**
 
      ![image](https://github.com/user-attachments/assets/d88762f5-fd5c-48b7-92bd-8467e5e86322)
 
@@ -46,7 +46,7 @@
 
      ![image](https://github.com/user-attachments/assets/11f5fac8-e65b-4e9c-b8ae-5c2275cfd45c)
 
- ** 2. Category.**
+ **2. Category.**
 
      ![image](https://github.com/user-attachments/assets/7fa193b6-8ef2-4520-9cd7-0063cf41596f)
 
@@ -62,7 +62,7 @@
 
      ![image](https://github.com/user-attachments/assets/de2b824c-f0d0-4728-95c6-64549f6ee7b7)
 
- ** 6. Orders.**
+ **6. Orders.**
 
      ![image](https://github.com/user-attachments/assets/c7f047f0-8e84-4a66-b8e0-38e76f2cd901)
 
