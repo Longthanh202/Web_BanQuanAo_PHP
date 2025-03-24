@@ -22,7 +22,7 @@
   ### Client
   **1. Home page.**
 
-     ![image](https://github.com/user-attachments/assets/1d1608ea-97f3-4dee-9b17-6133c381f419)
+     ![image]([https://github.com/user-attachments/assets/1d1608ea-97f3-4dee-9b17-6133c381f419](https://ibb.co/qF7gtSXS))
 
   **2. Product details.**
 
