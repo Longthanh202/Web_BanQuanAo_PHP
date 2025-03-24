@@ -38,7 +38,7 @@
 
   **5. View all orders**
 
-     ![image](https://github.com/user-attachments/assets/da1fcd7a-2cee-4f09-8b46-36d11c093b76)
+     ![image](https://github.com/user-attachments/assets/3c165815-6aa9-4ee0-b6d3-8740e2ea8699)
 
 
   ### Admin
